@@ -1,0 +1,4 @@
+repetir {
+    imprimir("Mundo");
+    imprimir("ANTLR");
+} hasta falso;
